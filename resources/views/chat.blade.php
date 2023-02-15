@@ -1,3 +1,4 @@
-@rajuu : ini raju
-@ibal : hai
-@bebew : we kelen anak ppukh
+@rajuu      : ini raju
+@ibal       : hai
+@RANst      : Honey~ Honey~ Hi Honey~
+@ebew       : najy
